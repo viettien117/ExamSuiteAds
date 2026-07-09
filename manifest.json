@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "ads": [
+    {
+      "id": "ad_center_1_BaozDimsum_web",
+      "image": "images/ad_center_1_BaozDimsum_web.png",
+      "url": "https://baozdimsum.com/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_center_2_BaozDimsum_FanPage_Facbook",
+      "image": "images/ad_center_2_BaozDimsum_FanPage_Facbook.png",
+      "url": "https://www.facebook.com/BaozDimsum/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_center_3_BaozDimsum_TikTok_web",
+      "image": "images/ad_center_3_BaozDimsum_TikTok_web.png",
+      "url": "https://www.tiktok.com/@baozdimsum",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_center_4_BaozDimsum_ThucDon_web",
+      "image": "images/ad_center_4_BaozDimsum_ThucDon_web.png",
+      "url": "https://baozdimsum.com/thuc-don/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_center_5_BaozDimsum_Menu_web",
+      "image": "images/ad_center_5_BaozDimsum_Menu_web.png",
+      "url": "https://baozdimsum.com/wp-content/uploads/2025/02/MENU-BAOZ-DIMSUM-2025.pdf",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_center_6_BaozDimsum_TinTuc_web",
+      "image": "images/ad_center_6_BaozDimsum_TinTuc_web.png",
+      "url": "https://baozdimsum.com/tin-tuc/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_center_7_BaozDimsum_ThanhVien_web",
+      "image": "images/ad_center_7_BaozDimsum_ThanhVien_web.png",
+      "url": "https://baozdimsum.com/thanh-vien/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_left_1",
+      "image": "images/ad_left_1.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "left",
+      "display_seconds": 5,
+      "expires_at": "2026-12-31",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_left_2",
+      "image": "images/ad_left_2.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "left",
+      "display_seconds": 5,
+      "expires_at": "2026-12-31",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_left_3",
+      "image": "images/ad_left_3.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "left",
+      "display_seconds": 5,
+      "expires_at": "2026-12-31",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_left_4",
+      "image": "images/ad_left_4.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "left",
+      "display_seconds": 5,
+      "expires_at": "2026-12-31",
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+    {
+      "id": "ad_left_5",
+      "image": "images/ad_left_5.jpg",
+      "url": "https://baozdimsum.com//sale",
+      "slot": "left",
+      "display_seconds": 5,
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_right_1",
+      "image": "images/ad_right_1.jpg",
+      "url": "https://baozdimsum.com//sale",
+      "slot": "right",
+      "display_seconds": 5,
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_right_2",
+      "image": "images/ad_right_2.jpg",
+      "url": "https://baozdimsum.com//sale",
+      "slot": "right",
+      "display_seconds": 5,
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_right_3",
+      "image": "images/ad_right_3.jpg",
+      "url": "https://baozdimsum.com//sale",
+      "slot": "right",
+      "display_seconds": 5,
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_right_4",
+      "image": "images/ad_right_4.jpg",
+      "url": "https://baozdimsum.com//sale",
+      "slot": "right",
+      "display_seconds": 5,
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    },
+	{
+      "id": "ad_right_5",
+      "image": "images/ad_right_5.jpg",
+      "url": "https://baozdimsum.com//sale",
+      "slot": "right",
+      "display_seconds": 5,
+      "apps": ["ExamSheet"],
+      "platforms": ["windows"]
+    }
+  ]
+}
