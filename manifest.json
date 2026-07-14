@@ -78,7 +78,7 @@
       "slot": "left",
       "display_seconds": 5,
       "expires_at": "2026-12-31",
-      "apps": ["ExamSheet", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer"],
       "platforms": ["windows"]
     },
 	{
@@ -88,7 +88,7 @@
       "slot": "left",
       "display_seconds": 5,
       "expires_at": "2026-12-31",
-      "apps": ["ExamSheet", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer"],
       "platforms": ["windows"]
     },
 	{
@@ -98,7 +98,7 @@
       "slot": "left",
       "display_seconds": 5,
       "expires_at": "2026-12-31",
-      "apps": ["ExamSheet", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer"],
       "platforms": ["windows"]
     },
 	{
@@ -108,7 +108,7 @@
       "slot": "left",
       "display_seconds": 5,
       "expires_at": "2026-12-31",
-      "apps": ["ExamSheet", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer"],
       "platforms": ["windows"]
     },
     {
@@ -117,7 +117,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "left",
       "display_seconds": 5,
-      "apps": ["ExamSheet", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer"],
       "platforms": ["windows"]
     },
 	{
@@ -126,7 +126,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "right",
       "display_seconds": 5,
-      "apps": ["ExamSheet", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer"],
       "platforms": ["windows"]
     },
 	{
@@ -135,7 +135,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "right",
       "display_seconds": 5,
-      "apps": ["ExamSheet", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer"],
       "platforms": ["windows"]
     },
 	{
@@ -144,7 +144,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "right",
       "display_seconds": 5,
-      "apps": ["ExamSheet", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer"],
       "platforms": ["windows"]
     },
 	{
@@ -153,7 +153,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "right",
       "display_seconds": 5,
-      "apps": ["ExamSheet", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer"],
       "platforms": ["windows"]
     },
 	{
@@ -162,7 +162,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "right",
       "display_seconds": 5,
-      "apps": ["ExamSheet", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer"],
       "platforms": ["windows"]
     }
   ]
