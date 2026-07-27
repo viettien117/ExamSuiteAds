@@ -9,7 +9,7 @@
       "display_seconds": 5,
       "expires_at": "",
       "apps": ["ExamSheet", "ExamScan"],
-      "platforms": ["windows", "android"]
+      "platforms": ["windows", "android", "ios"]
     },
 	{
       "id": "ad_center_2_BaozDimsum_FanPage_Facbook",
@@ -19,7 +19,7 @@
       "display_seconds": 5,
       "expires_at": "",
       "apps": ["ExamSheet", "ExamScan"],
-      "platforms": ["windows", "android"]
+      "platforms": ["windows", "android", "ios"]
     },
 	{
       "id": "ad_center_3_BaozDimsum_TikTok_web",
@@ -29,7 +29,7 @@
       "display_seconds": 5,
       "expires_at": "",
       "apps": ["ExamSheet", "ExamScan"],
-      "platforms": ["windows", "android"]
+      "platforms": ["windows", "android", "ios"]
     },
 	{
       "id": "ad_center_4_BaozDimsum_ThucDon_web",
@@ -39,7 +39,7 @@
       "display_seconds": 5,
       "expires_at": "",
       "apps": ["ExamSheet", "ExamScan"],
-      "platforms": ["windows", "android"]
+      "platforms": ["windows", "android", "ios"]
     },
 	{
       "id": "ad_center_5_BaozDimsum_Menu_web",
@@ -49,7 +49,7 @@
       "display_seconds": 5,
       "expires_at": "",
       "apps": ["ExamSheet", "ExamScan"],
-      "platforms": ["windows", "android"]
+      "platforms": ["windows", "android", "ios"]
     },
 	{
       "id": "ad_center_6_BaozDimsum_TinTuc_web",
@@ -59,7 +59,7 @@
       "display_seconds": 5,
       "expires_at": "",
       "apps": ["ExamSheet", "ExamScan"],
-      "platforms": ["windows", "android"]
+      "platforms": ["windows", "android", "ios"]
     },
 	{
       "id": "ad_center_7_BaozDimsum_ThanhVien_web",
@@ -69,7 +69,7 @@
       "display_seconds": 5,
       "expires_at": "",
       "apps": ["ExamSheet", "ExamScan"],
-      "platforms": ["windows", "android"]
+      "platforms": ["windows", "android", "ios"]
     },
 	{
       "id": "ad_left_1",
