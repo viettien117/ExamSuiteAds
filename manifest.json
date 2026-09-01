@@ -79,7 +79,7 @@
       "display_seconds": 5,
       "expires_at": "2026-12-31",
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
-      "platforms": ["windows"]
+      "platforms": ["windows", "macos"]
     },
 	{
       "id": "ad_left_2",
@@ -89,7 +89,7 @@
       "display_seconds": 5,
       "expires_at": "2026-12-31",
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
-      "platforms": ["windows"]
+      "platforms": ["windows", "macos"]
     },
 	{
       "id": "ad_left_3",
@@ -99,7 +99,7 @@
       "display_seconds": 5,
       "expires_at": "2026-12-31",
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
-      "platforms": ["windows"]
+      "platforms": ["windows", "macos"]
     },
 	{
       "id": "ad_left_4",
@@ -109,7 +109,7 @@
       "display_seconds": 5,
       "expires_at": "2026-12-31",
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
-      "platforms": ["windows"]
+      "platforms": ["windows", "macos"]
     },
     {
       "id": "ad_left_5",
@@ -118,7 +118,7 @@
       "slot": "left",
       "display_seconds": 5,
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
-      "platforms": ["windows"]
+      "platforms": ["windows", "macos"]
     },
 	{
       "id": "ad_right_1",
@@ -127,7 +127,7 @@
       "slot": "right",
       "display_seconds": 5,
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
-      "platforms": ["windows"]
+      "platforms": ["windows", "macos"]
     },
 	{
       "id": "ad_right_2",
@@ -136,7 +136,7 @@
       "slot": "right",
       "display_seconds": 5,
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
-      "platforms": ["windows"]
+      "platforms": ["windows", "macos"]
     },
 	{
       "id": "ad_right_3",
@@ -145,7 +145,7 @@
       "slot": "right",
       "display_seconds": 5,
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
-      "platforms": ["windows"]
+      "platforms": ["windows", "macos"]
     },
 	{
       "id": "ad_right_4",
@@ -154,7 +154,7 @@
       "slot": "right",
       "display_seconds": 5,
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
-      "platforms": ["windows"]
+      "platforms": ["windows", "macos"]
     },
 	{
       "id": "ad_right_5",
@@ -163,7 +163,7 @@
       "slot": "right",
       "display_seconds": 5,
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
-      "platforms": ["windows"]
+      "platforms": ["windows", "macos"]
     }
   ]
 }
