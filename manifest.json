@@ -11,7 +11,17 @@
       "apps": ["ExamSheet", "ExamScan"],
       "platforms": ["windows", "macos", "android", "ios"]
     },
-	{
+    {
+      "id": "ad_center_8_ExamMixer_vi",
+      "image": "images/ad_center_8_ExamMixer_vi.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
       "id": "ad_center_2_BaozDimsum_FanPage_Facbook",
       "image": "images/ad_center_2_BaozDimsum_FanPage_Facbook.png",
       "url": "https://www.facebook.com/BaozDimsum/",
@@ -21,7 +31,17 @@
       "apps": ["ExamSheet", "ExamScan"],
       "platforms": ["windows", "macos", "android", "ios"]
     },
-	{
+    {
+      "id": "ad_center_9_ExamInsight_vi",
+      "image": "images/ad_center_9_ExamInsight_vi.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
       "id": "ad_center_3_BaozDimsum_TikTok_web",
       "image": "images/ad_center_3_BaozDimsum_TikTok_web.png",
       "url": "https://www.tiktok.com/@baozdimsum",
@@ -31,7 +51,17 @@
       "apps": ["ExamSheet", "ExamScan"],
       "platforms": ["windows", "macos", "android", "ios"]
     },
-	{
+    {
+      "id": "ad_center_10_ExamSheet_vi",
+      "image": "images/ad_center_10_ExamSheet_vi.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamScan"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
       "id": "ad_center_4_BaozDimsum_ThucDon_web",
       "image": "images/ad_center_4_BaozDimsum_ThucDon_web.png",
       "url": "https://baozdimsum.com/thuc-don/",
@@ -41,7 +71,17 @@
       "apps": ["ExamSheet", "ExamScan"],
       "platforms": ["windows", "macos", "android", "ios"]
     },
-	{
+    {
+      "id": "ad_center_11_ExamMixer_en",
+      "image": "images/ad_center_11_ExamMixer_en.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
       "id": "ad_center_5_BaozDimsum_Menu_web",
       "image": "images/ad_center_5_BaozDimsum_Menu_web.png",
       "url": "https://baozdimsum.com/wp-content/uploads/2025/02/MENU-BAOZ-DIMSUM-2025.pdf",
@@ -51,7 +91,17 @@
       "apps": ["ExamSheet", "ExamScan"],
       "platforms": ["windows", "macos", "android", "ios"]
     },
-	{
+    {
+      "id": "ad_center_12_ExamInsight_en",
+      "image": "images/ad_center_12_ExamInsight_en.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
       "id": "ad_center_6_BaozDimsum_TinTuc_web",
       "image": "images/ad_center_6_BaozDimsum_TinTuc_web.png",
       "url": "https://baozdimsum.com/tin-tuc/",
@@ -61,7 +111,17 @@
       "apps": ["ExamSheet", "ExamScan"],
       "platforms": ["windows", "macos", "android", "ios"]
     },
-	{
+    {
+      "id": "ad_center_13_ExamSheet_en",
+      "image": "images/ad_center_13_ExamSheet_en.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamScan"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
       "id": "ad_center_7_BaozDimsum_ThanhVien_web",
       "image": "images/ad_center_7_BaozDimsum_ThanhVien_web.png",
       "url": "https://baozdimsum.com/thanh-vien/",
@@ -71,7 +131,7 @@
       "apps": ["ExamSheet", "ExamScan"],
       "platforms": ["windows", "macos", "android", "ios"]
     },
-	{
+    {
       "id": "ad_left_1",
       "image": "images/ad_left_1.jpg",
       "url": "https://baozdimsum.com/",
@@ -81,7 +141,7 @@
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
-	{
+    {
       "id": "ad_left_2",
       "image": "images/ad_left_2.jpg",
       "url": "https://baozdimsum.com/",
@@ -91,7 +151,7 @@
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
-	{
+    {
       "id": "ad_left_3",
       "image": "images/ad_left_3.jpg",
       "url": "https://baozdimsum.com/",
@@ -101,7 +161,7 @@
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
-	{
+    {
       "id": "ad_left_4",
       "image": "images/ad_left_4.jpg",
       "url": "https://baozdimsum.com/",
@@ -120,7 +180,7 @@
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
-	{
+    {
       "id": "ad_right_1",
       "image": "images/ad_right_1.jpg",
       "url": "https://baozdimsum.com/",
@@ -129,7 +189,7 @@
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
-	{
+    {
       "id": "ad_right_2",
       "image": "images/ad_right_2.jpg",
       "url": "https://baozdimsum.com/",
@@ -138,7 +198,7 @@
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
-	{
+    {
       "id": "ad_right_3",
       "image": "images/ad_right_3.jpg",
       "url": "https://baozdimsum.com/",
@@ -147,7 +207,7 @@
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
-	{
+    {
       "id": "ad_right_4",
       "image": "images/ad_right_4.jpg",
       "url": "https://baozdimsum.com/",
@@ -156,7 +216,7 @@
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
-	{
+    {
       "id": "ad_right_5",
       "image": "images/ad_right_5.jpg",
       "url": "https://baozdimsum.com/",
