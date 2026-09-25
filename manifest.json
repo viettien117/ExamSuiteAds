@@ -72,6 +72,26 @@
       "platforms": ["windows", "macos", "android", "ios"]
     },
     {
+      "id": "ad_center_14_ExamScan_vi",
+      "image": "images/ad_center_14_ExamScan_vi.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_5_BaozDimsum_Menu_web",
+      "image": "images/ad_center_5_BaozDimsum_Menu_web.png",
+      "url": "https://baozdimsum.com/wp-content/uploads/2025/02/MENU-BAOZ-DIMSUM-2025.pdf",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
       "id": "ad_center_11_ExamMixer_en",
       "image": "images/ad_center_11_ExamMixer_en.png",
       "url": "https://viettien117.github.io/examscan/",
@@ -82,9 +102,9 @@
       "platforms": ["windows", "macos", "android", "ios"]
     },
     {
-      "id": "ad_center_5_BaozDimsum_Menu_web",
-      "image": "images/ad_center_5_BaozDimsum_Menu_web.png",
-      "url": "https://baozdimsum.com/wp-content/uploads/2025/02/MENU-BAOZ-DIMSUM-2025.pdf",
+      "id": "ad_center_6_BaozDimsum_TinTuc_web",
+      "image": "images/ad_center_6_BaozDimsum_TinTuc_web.png",
+      "url": "https://baozdimsum.com/tin-tuc/",
       "slot": "center",
       "display_seconds": 5,
       "expires_at": "",
@@ -102,9 +122,9 @@
       "platforms": ["windows", "macos", "android", "ios"]
     },
     {
-      "id": "ad_center_6_BaozDimsum_TinTuc_web",
-      "image": "images/ad_center_6_BaozDimsum_TinTuc_web.png",
-      "url": "https://baozdimsum.com/tin-tuc/",
+      "id": "ad_center_7_BaozDimsum_ThanhVien_web",
+      "image": "images/ad_center_7_BaozDimsum_ThanhVien_web.png",
+      "url": "https://baozdimsum.com/thanh-vien/",
       "slot": "center",
       "display_seconds": 5,
       "expires_at": "",
@@ -122,13 +142,13 @@
       "platforms": ["windows", "macos", "android", "ios"]
     },
     {
-      "id": "ad_center_7_BaozDimsum_ThanhVien_web",
-      "image": "images/ad_center_7_BaozDimsum_ThanhVien_web.png",
-      "url": "https://baozdimsum.com/thanh-vien/",
+      "id": "ad_center_15_ExamScan_en",
+      "image": "images/ad_center_15_ExamScan_en.png",
+      "url": "https://viettien117.github.io/examscan/",
       "slot": "center",
       "display_seconds": 5,
       "expires_at": "",
-      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "apps": ["ExamSheet", "ExamInsight"],
       "platforms": ["windows", "macos", "android", "ios"]
     },
     {
@@ -177,6 +197,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "left",
       "display_seconds": 5,
+      "expires_at": "",
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
@@ -186,6 +207,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "right",
       "display_seconds": 5,
+      "expires_at": "",
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
@@ -195,6 +217,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "right",
       "display_seconds": 5,
+      "expires_at": "",
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
@@ -204,6 +227,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "right",
       "display_seconds": 5,
+      "expires_at": "",
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
@@ -213,6 +237,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "right",
       "display_seconds": 5,
+      "expires_at": "",
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     },
@@ -222,6 +247,7 @@
       "url": "https://baozdimsum.com/",
       "slot": "right",
       "display_seconds": 5,
+      "expires_at": "",
       "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
       "platforms": ["windows", "macos"]
     }
