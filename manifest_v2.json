@@ -1,0 +1,395 @@
+{
+  "version": 2,
+  "ads": [
+    {
+      "id": "ad_center_1_BaozDimsum_web",
+      "image": "images/ad_center_1_BaozDimsum_web.png",
+      "url": "https://baozdimsum.com/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_10_ExamSheet_vi",
+      "image": "images/ad_center_10_ExamSheet_vi.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamScan", "ExamInsight"],
+      "langs": ["vi"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_13_ExamSheet_en",
+      "image": "images/ad_center_13_ExamSheet_en.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamScan", "ExamInsight"],
+      "langs": ["en"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_16_ExamSheet_pt",
+      "image": "images/ad_center_16_ExamSheet_pt.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamScan", "ExamInsight"],
+      "langs": ["pt"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_17_ExamSheet_es",
+      "image": "images/ad_center_17_ExamSheet_es.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamScan", "ExamInsight"],
+      "langs": ["es"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_18_ExamSheet_id",
+      "image": "images/ad_center_18_ExamSheet_id.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamScan", "ExamInsight"],
+      "langs": ["id"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_2_BaozDimsum_FanPage_Facbook",
+      "image": "images/ad_center_2_BaozDimsum_FanPage_Facbook.png",
+      "url": "https://www.facebook.com/BaozDimsum/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_8_ExamMixer_vi",
+      "image": "images/ad_center_8_ExamMixer_vi.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "langs": ["vi"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_11_ExamMixer_en",
+      "image": "images/ad_center_11_ExamMixer_en.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "langs": ["en"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_19_ExamMixer_pt",
+      "image": "images/ad_center_19_ExamMixer_pt.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "langs": ["pt"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_20_ExamMixer_es",
+      "image": "images/ad_center_20_ExamMixer_es.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "langs": ["es"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_21_ExamMixer_id",
+      "image": "images/ad_center_21_ExamMixer_id.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "langs": ["id"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_3_BaozDimsum_TikTok_web",
+      "image": "images/ad_center_3_BaozDimsum_TikTok_web.png",
+      "url": "https://www.tiktok.com/@baozdimsum",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_9_ExamInsight_vi",
+      "image": "images/ad_center_9_ExamInsight_vi.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan"],
+      "langs": ["vi"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_12_ExamInsight_en",
+      "image": "images/ad_center_12_ExamInsight_en.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan"],
+      "langs": ["en"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_22_ExamInsight_pt",
+      "image": "images/ad_center_22_ExamInsight_pt.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan"],
+      "langs": ["pt"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_23_ExamInsight_es",
+      "image": "images/ad_center_23_ExamInsight_es.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan"],
+      "langs": ["es"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_24_ExamInsight_id",
+      "image": "images/ad_center_24_ExamInsight_id.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan"],
+      "langs": ["id"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_4_BaozDimsum_ThucDon_web",
+      "image": "images/ad_center_4_BaozDimsum_ThucDon_web.png",
+      "url": "https://baozdimsum.com/thuc-don/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_14_ExamScan_vi",
+      "image": "images/ad_center_14_ExamScan_vi.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight"],
+      "langs": ["vi"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_15_ExamScan_en",
+      "image": "images/ad_center_15_ExamScan_en.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight"],
+      "langs": ["en"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_25_ExamScan_pt",
+      "image": "images/ad_center_25_ExamScan_pt.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight"],
+      "langs": ["pt"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_26_ExamScan_es",
+      "image": "images/ad_center_26_ExamScan_es.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight"],
+      "langs": ["es"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_27_ExamScan_id",
+      "image": "images/ad_center_27_ExamScan_id.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight"],
+      "langs": ["id"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_5_BaozDimsum_Menu_web",
+      "image": "images/ad_center_5_BaozDimsum_Menu_web.png",
+      "url": "https://baozdimsum.com/wp-content/uploads/2025/02/MENU-BAOZ-DIMSUM-2025.pdf",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_6_BaozDimsum_TinTuc_web",
+      "image": "images/ad_center_6_BaozDimsum_TinTuc_web.png",
+      "url": "https://baozdimsum.com/tin-tuc/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_center_7_BaozDimsum_ThanhVien_web",
+      "image": "images/ad_center_7_BaozDimsum_ThanhVien_web.png",
+      "url": "https://baozdimsum.com/thanh-vien/",
+      "slot": "center",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
+    {
+      "id": "ad_left_1",
+      "image": "images/ad_left_1.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "left",
+      "display_seconds": 5,
+      "expires_at": "2026-12-31",
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
+      "platforms": ["windows", "macos"]
+    },
+    {
+      "id": "ad_left_2",
+      "image": "images/ad_left_2.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "left",
+      "display_seconds": 5,
+      "expires_at": "2026-12-31",
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
+      "platforms": ["windows", "macos"]
+    },
+    {
+      "id": "ad_left_3",
+      "image": "images/ad_left_3.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "left",
+      "display_seconds": 5,
+      "expires_at": "2026-12-31",
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
+      "platforms": ["windows", "macos"]
+    },
+    {
+      "id": "ad_left_4",
+      "image": "images/ad_left_4.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "left",
+      "display_seconds": 5,
+      "expires_at": "2026-12-31",
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
+      "platforms": ["windows", "macos"]
+    },
+    {
+      "id": "ad_left_5",
+      "image": "images/ad_left_5.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "left",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
+      "platforms": ["windows", "macos"]
+    },
+    {
+      "id": "ad_right_1",
+      "image": "images/ad_right_1.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "right",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
+      "platforms": ["windows", "macos"]
+    },
+    {
+      "id": "ad_right_2",
+      "image": "images/ad_right_2.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "right",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
+      "platforms": ["windows", "macos"]
+    },
+    {
+      "id": "ad_right_3",
+      "image": "images/ad_right_3.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "right",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
+      "platforms": ["windows", "macos"]
+    },
+    {
+      "id": "ad_right_4",
+      "image": "images/ad_right_4.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "right",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
+      "platforms": ["windows", "macos"]
+    },
+    {
+      "id": "ad_right_5",
+      "image": "images/ad_right_5.jpg",
+      "url": "https://baozdimsum.com/",
+      "slot": "right",
+      "display_seconds": 5,
+      "expires_at": "",
+      "apps": ["ExamSheet", "ExamInsight", "ExamMixer", "ExamScan"],
+      "platforms": ["windows", "macos"]
+    }
+  ]
+}
