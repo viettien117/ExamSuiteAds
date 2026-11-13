@@ -1,6 +1,18 @@
 {
   "version": 2,
+  "revision": 1,
   "ads": [
+    {
+      "id": "ad_center_28_TriAn2011_vi",
+      "image": "images/ad_center_28_TriAn2011_vi.png",
+      "url": "https://viettien117.github.io/examscan/",
+      "slot": "center",
+      "display_seconds": 7,
+      "expires_at": "2026-11-25",
+      "apps": ["ExamSheet", "ExamScan", "ExamInsight"],
+      "langs": ["vi"],
+      "platforms": ["windows", "macos", "android", "ios"]
+    },
     {
       "id": "ad_center_1_BaozDimsum_web",
       "image": "images/ad_center_1_BaozDimsum_web.png",
